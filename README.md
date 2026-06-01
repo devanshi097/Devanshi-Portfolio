@@ -14,8 +14,14 @@ Business Analyst | Business Analytics | SQL | Python | Tableau
 
 ## Academic Achievements
 
-### BITSoM Business Analytics Program
+### Module 1A Certificate
 
-- Module 1A Certificate of Appreciation
-- Module 1B Certificate of Appreciation
-- Module 2 Certificate of Appreciation
+![Module 1A](certificates/module1a.png)
+
+### Module 1B Certificate
+
+![Module 1B](certificates/module1b.png)
+
+### Module 2 Certificate
+
+![Module 2](certificates/module2.png)
